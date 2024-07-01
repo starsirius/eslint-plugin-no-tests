@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-tests",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "ESLint plugin to enforce no tests",
   "main": "index.js",
   "scripts": {
