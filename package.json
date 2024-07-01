@@ -1,0 +1,25 @@
+{
+  "name": "eslint-plugin-no-tests",
+  "version": "0.1.0",
+  "description": "ESLint plugin to enforce no tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "node no-tests.test.js"
+  },
+  "author": "Chung-Yi Chi",
+  "license": "ISC",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "peerDependencies": {
+    "eslint": ">=9.0.0"
+  },
+  "dependencies": {
+    "eslint-plugin-jest": "^28.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.6.0"
+  }
+}
